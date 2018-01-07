@@ -1,1 +1,1 @@
-# pool-thermometer
+# Pool thermometer
